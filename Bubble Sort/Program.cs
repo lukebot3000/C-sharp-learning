@@ -39,6 +39,7 @@ namespace Bubble_Sort
 
                     }
                 }
+
             }
             
             Console.ForegroundColor = ConsoleColor.Yellow;
